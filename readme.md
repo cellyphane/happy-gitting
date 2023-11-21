@@ -1,8 +1,11 @@
 # Happy gitting everyone!
 
-This is markdown readme file.
+Working with a fork for the first time :)
 
-You can add images here as in any other markdown document:
+Yayyyyyyyyyyy
+
+"And stop calling Sacramento the Bay Area - there is no bay *in* the area" -
+Victoria Monet
 
 ![Lake Olallie in October 2022](olallie.jpg)
 
